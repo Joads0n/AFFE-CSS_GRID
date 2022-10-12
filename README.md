@@ -1,1 +1,1 @@
-#Alura Store - Curso CSS Grid: simplificando layouts
+# Alura Store - Curso CSS Grid: simplificando layouts
