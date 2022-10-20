@@ -20,5 +20,10 @@
 }
 
 .rodape {
+    background: #fdfdfd;
+    color: #333333;
+    font-size: .8rem;
     grid-area: rodape;
+    padding: 1rem;
+    text-align: center;
 }
